@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello I am Ipswita 👋
 
-<!--
-**ipswita28/ipswita28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🔭 I’m currently Studying at Indian Institute Of Engineering Science and Technology,Shibpur.
+- 🌱 I’m currently learning JavaScipt
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: LinedIn
+- 😄 Pronouns: She/Her
+<!-- - ⚡ Fun fact: ... -->
+
