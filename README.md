@@ -1,4 +1,4 @@
-### Hello I am Ipswita 👋
+### Hello I am I 👋
 
 
 
@@ -8,7 +8,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: LinedIn
+- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: ... -->
 
