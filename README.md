@@ -1,25 +1,36 @@
-## Hi, I’m Isha 👋  
+## 👋 About Me
 
-💼 Platform Engineer with 2+ years of experience building and supporting
-cloud infrastructure, CI/CD pipelines, and developer platforms.
+🛠️ Platform Engineer with 2+ years of experience building, automating, and
+maintaining reliable cloud-native infrastructure and CI/CD platforms.
 
-🔧 I focus on:
-- Infrastructure as Code
-- Cloud automation & reliability
-- Secure and scalable platform foundations
+🚀 Currently focused on improving developer experience, infrastructure
+scalability, and operational reliability through automation.
 
-### 🛠 Tech Stack
-- Cloud: AWS / GCP
-- IaC: Terraform
+---
+
+### 🔧 What I Work With
+- Cloud Platforms: AWS / GCP
+- Infrastructure as Code: Terraform
+- Containers & Orchestration: Docker, Kubernetes
 - CI/CD: GitHub Actions, Jenkins
-- Containers: Docker, Kubernetes
+- Monitoring & Observability: Prometheus, Grafana
 - Scripting: Python, Bash
-- Monitoring: Prometheus, Grafana
+- OS & Networking: Linux, TCP/IP fundamentals
 
-### 📌 What I’m working on
-- Improving platform reliability through automation  
-- Building reusable IaC modules  
-- Learning deeper Kubernetes & cloud security patterns  
+---
 
-📫 Reach me on LinkedIn: *(add link)*  
+### 🧠 Current Focus
+- Designing reusable Terraform modules  
+- Improving CI/CD pipeline reliability and security  
+- Kubernetes best practices & production readiness  
+- Platform automation to reduce manual ops  
+
+⚙️ Always optimizing systems so developers can move faster.
+
+---
+
+### 🌐 Connect
+🔗 LinkedIn: *https://www.linkedin.com/in/ipswitadas/*  
+📧 Email: *ipswita28@gmail.com*  
+
 😄 Pronouns: She/Her
